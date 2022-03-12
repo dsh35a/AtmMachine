@@ -10,3 +10,8 @@ step#3 : daljeet singh harsh, provide your atm pin
 step#4 : daljeet singh harsh, choose option from manu("cash withdraw")
 step#5 : daljeet singh harsh, completed transaction ,thankyou!
 step#6 : daljeet singh harsh, went out from atm cabin.
+
+
+
+
+changes to readme file
